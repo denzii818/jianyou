@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="970px" height="507px" viewBox="0 0 970 507" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 8</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="区块链" transform="translate(-475.000000, -705.000000)">
+            <g id="分组-8" transform="translate(475.000000, 705.000000)">
+                <rect id="矩形" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="969" height="507"></rect>
+                <g id="分组-copy" transform="translate(821.000000, 0.000000)">
+                    <path d="M4.25714286,0 L144.742857,0 C147.094012,-4.09854206e-16 149,1.80869826 149,4.03984064 L149,502.960159 C149,505.191302 147.094012,507 144.742857,507 L4.25714286,507 C1.90598778,507 0,505.191302 0,502.960159 L0,4.03984064 C0,1.80869826 1.90598778,4.09854206e-16 4.25714286,0 Z" id="合并形状-copy-2" fill="#FFF2E0" fill-rule="nonzero"></path>
+                    <rect id="path-32" fill-opacity="0.122763813" fill="#FF9400" fill-rule="nonzero" x="21.2857143" y="65.7373137" width="106.217947" height="51.6685325"></rect>
+                    <text id="个人用户" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                        <tspan x="45.792" y="97.6720581">个人用户</tspan>
+                    </text>
+                    <rect id="path-40" fill-opacity="0.122763813" fill="#FF9400" fill-rule="nonzero" x="21.2857143" y="150.899014" width="106.217947" height="345.28458"></rect>
+                    <text id="企业用户" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                        <tspan x="45.792" y="173.672058">企业用户</tspan>
+                    </text>
+                    <g id="分组-2" transform="translate(34.057143, 185.000000)">
+                        <path d="M0,1.13686838e-13 L80.8857143,1.13686838e-13 L80.8857143,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="inbase" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="19.065" y="24.6720581">inbase</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy" transform="translate(34.057143, 251.000000)">
+                        <path d="M0,1.13686838e-13 L80.8857143,1.13686838e-13 L80.8857143,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="Qukuai.-com" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="15.803" y="17.6720581">Qukuai.</tspan>
+                            <tspan x="26.114" y="33.8720582">com</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy-2" transform="translate(34.057143, 317.000000)">
+                        <path d="M0,1.13686838e-13 L80.8857143,1.13686838e-13 L80.8857143,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="RSK" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="26.044" y="24.6720581">RSK</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy-3" transform="translate(34.057143, 383.000000)">
+                        <path d="M0,1.13686838e-13 L80.8857143,1.13686838e-13 L80.8857143,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="Bolck-stream" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="22.117" y="17.6720581">Bolck</tspan>
+                            <tspan x="17.798" y="33.8720582">stream</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy-4" transform="translate(34.057143, 449.000000)">
+                        <path d="M0,1.13686838e-13 L80.8857143,1.13686838e-13 L80.8857143,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="……" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="25.4348571" y="21.6720581">……</tspan>
+                        </text>
+                    </g>
+                    <text id="使用方" font-family="PingFang-SC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="1" fill="#070B4A">
+                        <tspan x="46.8285714" y="38">使用方</tspan>
+                    </text>
+                </g>
+                <g id="分组-copy-3" transform="translate(210.000000, 0.000000)">
+                    <path d="M13.1428571,0 L446.857143,0 C454.115742,-4.09854206e-16 460,1.80869826 460,4.03984064 L460,502.960159 C460,505.191302 454.115742,507 446.857143,507 L13.1428571,507 C5.88425757,507 0,505.191302 0,502.960159 L0,4.03984064 C0,1.80869826 5.88425757,4.09854206e-16 13.1428571,0 Z" id="合并形状-copy-2" fill="#E9F1FB" fill-rule="nonzero"></path>
+                    <rect id="path-32" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="237.453704" y="66" width="201.039271" height="429.525868"></rect>
+                    <rect id="path-32-copy" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="22.5718403" y="66" width="201.039271" height="429.668533"></rect>
+                    <text id="去中心化交易所" font-family="PingFang-SC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="1" fill="#070B4A">
+                        <tspan x="276.894296" y="96.7680664">去中心化交易所</tspan>
+                    </text>
+                    <text id="中心化交易所" font-family="PingFang-SC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="1" fill="#070B4A">
+                        <tspan x="70.5124329" y="96.7680664">中心化交易所</tspan>
+                    </text>
+                    <g id="分组-2" transform="translate(345.000000, 135.000000)">
+                        <path d="M0,1.13686838e-13 L80.9259259,1.13686838e-13 L80.9259259,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="Kyber" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="20.981963" y="25.6720581">Kyber</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy-5" transform="translate(248.101852, 135.000000)">
+                        <path d="M0,1.13686838e-13 L80.9259259,1.13686838e-13 L80.9259259,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="0x" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="31.803963" y="25.6720581">0x</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy-11" transform="translate(33.009259, 135.000000)">
+                        <g id="分组-7">
+                            <path d="M0,1.13686838e-13 L179.953704,1.13686838e-13 L179.953704,98.9003984 L0,98.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                            <text id="法币交易所" opacity="0.796781994" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#070B4A">
+                                <tspan x="54.9768519" y="23">法币交易所</tspan>
+                            </text>
+                            <g id="分组-2-copy-15" transform="translate(8.518519, 35.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="Coinbase" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="8.74933333" y="13">Coinbase</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-17" transform="translate(8.518519, 56.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="火币网" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="18.8333333" y="13">火币网</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-20" transform="translate(8.518519, 77.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="Gate" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="23.1693333" y="13">Gate</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-16" transform="translate(94.768519, 35.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="K网" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="27.2713333" y="13">K网</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-19" transform="translate(94.768519, 56.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="OTCBTC" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="10.5893333" y="13">OTCBTC</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-21" transform="translate(94.768519, 73.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="5" width="76.6666667" height="15.9003984"></rect>
+                                <text id="……" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="25.3333333" y="13">……</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="分组-2-copy-12" transform="translate(33.009259, 240.000000)">
+                        <g id="分组-7">
+                            <path d="M0,1.13686838e-13 L179.953704,1.13686838e-13 L179.953704,98.9003984 L0,98.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                            <text id="币币交易所" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#070B4A">
+                                <tspan x="54.9768519" y="23">币币交易所</tspan>
+                            </text>
+                            <g id="分组-2-copy-15" transform="translate(8.518519, 35.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="币安网" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="18.8333333" y="13">币安网</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-17" transform="translate(8.518519, 56.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="Bitfinex" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="14.1033333" y="13">Bitfinex</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-20" transform="translate(8.518519, 77.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="OkCoin" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="15.1013333" y="13">OkCoin</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-16" transform="translate(94.768519, 35.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="Bithumb" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="12.1953333" y="13">Bithumb</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-19" transform="translate(94.768519, 56.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="Upbit" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="21.1273333" y="13">Upbit</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-21" transform="translate(94.768519, 74.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="4" width="76.6666667" height="15.9003984"></rect>
+                                <text id="......" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="26.0453333" y="13">......</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="分组-2-copy-13" transform="translate(33.009259, 345.000000)">
+                        <g id="分组-7">
+                            <path d="M0,1.13686838e-13 L179.953704,1.13686838e-13 L179.953704,98.9003984 L0,98.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                            <text id="期货交易所" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#070B4A">
+                                <tspan x="54.9768519" y="23">期货交易所</tspan>
+                            </text>
+                            <g id="分组-2-copy-15" transform="translate(8.518519, 35.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="BitMEX" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="14.9873333" y="13">BitMEX</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-17" transform="translate(8.518519, 56.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="Zaif" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="25.6353333" y="13">Zaif</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-20" transform="translate(8.518519, 77.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="B网" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="27.3133333" y="13">B网</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-16" transform="translate(94.768519, 35.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="OKEX" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="20.1693333" y="13">OKEX</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-19" transform="translate(94.768519, 56.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="1" width="76.6666667" height="15.9003984"></rect>
+                                <text id="Bitfinex" font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="14.1033333" y="13">Bitfinex</tspan>
+                                </text>
+                            </g>
+                            <g id="分组-2-copy-21" transform="translate(94.768519, 74.000000)">
+                                <rect id="path-42" fill-opacity="0.102949502" fill="#2378D3" fill-rule="nonzero" x="0" y="4" width="76.6666667" height="15.9003984"></rect>
+                                <text id="…..." font-family="PingFang-SC-Regular, PingFang SC" font-size="12" font-weight="normal" letter-spacing="1" fill="#070B4A">
+                                    <tspan x="25.6893333" y="13">…...</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="分组-2-copy" transform="translate(345.000000, 214.000000)">
+                        <path d="M0,1.13686838e-13 L80.9259259,1.13686838e-13 L80.9259259,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="stex" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="26.259963" y="24.6720581">stex</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy-6" transform="translate(248.101852, 215.000000)">
+                        <path d="M0,1.13686838e-13 L80.9259259,1.13686838e-13 L80.9259259,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="Airswap" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="14.163963" y="24.6720581">Airswap</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy-2" transform="translate(345.000000, 292.000000)">
+                        <path d="M0,1.13686838e-13 L80.9259259,1.13686838e-13 L80.9259259,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="Etherdelta" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="6.63196296" y="25.6720581">Etherdelta</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy-7" transform="translate(248.101852, 292.000000)">
+                        <path d="M0,1.13686838e-13 L80.9259259,1.13686838e-13 L80.9259259,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="Loopring" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="11.076963" y="25.6720581">Loopring</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy-3" transform="translate(345.000000, 371.000000)">
+                        <path d="M0,1.13686838e-13 L80.9259259,1.13686838e-13 L80.9259259,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="路印" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="25.454963" y="24.6720581">路印</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy-8" transform="translate(248.101852, 371.000000)">
+                        <path d="M0,1.13686838e-13 L80.9259259,1.13686838e-13 L80.9259259,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="DEW" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="23.711963" y="24.6720581">DEW</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy-4" transform="translate(345.000000, 449.000000)">
+                        <path d="M0,1.13686838e-13 L80.9259259,1.13686838e-13 L80.9259259,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="……" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="25.454963" y="21.6720581">……</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy-18" transform="translate(33.009259, 450.000000)">
+                        <path d="M0,1.13686838e-13 L177.824074,1.13686838e-13 L177.824074,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="……" fill-opacity="0.65" fill="#000000" opacity="0.796781994" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal">
+                            <tspan x="76.5092593" y="21">……</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2-copy-9" transform="translate(248.101852, 449.000000)">
+                        <path d="M0,1.13686838e-13 L80.9259259,1.13686838e-13 L80.9259259,37.9003984 L0,37.9003984 L0,1.13686838e-13 Z" id="path-42" stroke-opacity="0.284476902" stroke="#070B4A" stroke-dasharray="4,4"></path>
+                        <text id="BitShare" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="12.196963" y="25.6720581">BitShare</tspan>
+                        </text>
+                    </g>
+                    <text id="数字货币交易所" font-family="PingFang-SC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="1" fill="#070B4A">
+                        <tspan x="169.880407" y="36.7680664">数字货币交易所</tspan>
+                    </text>
+                </g>
+                <g id="分组-copy-2" transform="translate(686.000000, 0.000000)">
+                    <path d="M3.4,0 L115.6,0 C117.477768,-4.09854206e-16 119,1.80869826 119,4.03984064 L119,502.960159 C119,505.191302 117.477768,507 115.6,507 L3.4,507 C1.52223185,507 0,505.191302 0,502.960159 L0,4.03984064 C0,1.80869826 1.52223185,4.09854206e-16 3.4,0 Z" id="合并形状-copy-2" fill="#ECFBFF" fill-rule="nonzero"></path>
+                    <g id="分组-6" transform="translate(19.125000, 71.000000)">
+                        <rect id="path-32" fill-opacity="0.278249547" fill="#8FD4E6" fill-rule="nonzero" x="-7.03437308e-13" y="0.737313693" width="80.5397289" height="39.6685325"></rect>
+                        <text id="块钱包" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="18.367" y="27.6720581">块钱包</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2" transform="translate(19.125000, 135.000000)">
+                        <g id="分组">
+                            <rect id="path-42" fill-opacity="0.278249547" fill="#8FD4E6" fill-rule="nonzero" x="0" y="1.13686838e-13" width="80.75" height="37.9003984"></rect>
+                            <text id="麦子钱包" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                                <tspan x="11.367" y="25.6720581">麦子钱包</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="分组-2-copy" transform="translate(19.125000, 214.000000)">
+                        <g id="分组-3">
+                            <rect id="path-42" fill-opacity="0.278249547" fill="#8FD4E6" fill-rule="nonzero" x="0" y="1.13686838e-13" width="80.75" height="37.9003984"></rect>
+                            <text id="imtoken" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                                <tspan x="14.013" y="25.6720581">imtoken</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="分组-2-copy-2" transform="translate(19.125000, 292.000000)">
+                        <g id="分组-4">
+                            <rect id="path-42" fill-opacity="0.278249547" fill="#8FD4E6" fill-rule="nonzero" x="0" y="1.13686838e-13" width="80.75" height="37.9003984"></rect>
+                            <text id="Coinbase" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                                <tspan x="9.519" y="25.6720581">Coinbase</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="分组-2-copy-3" transform="translate(19.125000, 371.000000)">
+                        <g id="分组-5">
+                            <rect id="path-42" fill-opacity="0.278249547" fill="#8FD4E6" fill-rule="nonzero" x="0" y="1.13686838e-13" width="80.75" height="37.9003984"></rect>
+                            <text id="BitGO" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                                <tspan x="19.963" y="25.6720581">BitGO</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="分组-2-copy-4" transform="translate(19.125000, 449.000000)">
+                        <rect id="path-42" fill-opacity="0.278249547" fill="#8FD4E6" fill-rule="nonzero" x="0" y="1.13686838e-13" width="80.75" height="37.9003984"></rect>
+                        <text id="……" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="25.367" y="22.6720581">……</tspan>
+                        </text>
+                    </g>
+                    <text id="存储方" font-family="PingFang-SC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="1" fill="#070B4A">
+                        <tspan x="31.875" y="38">存储方</tspan>
+                    </text>
+                </g>
+                <g id="分组-copy-4" transform="translate(75.000000, 0.000000)">
+                    <path d="M3.4,0 L115.6,0 C117.477768,-4.09854206e-16 119,1.80869826 119,4.03984064 L119,502.960159 C119,505.191302 117.477768,507 115.6,507 L3.4,507 C1.52223185,507 0,505.191302 0,502.960159 L0,4.03984064 C0,1.80869826 1.52223185,4.09854206e-16 3.4,0 Z" id="合并形状-copy-2" fill="#E7F8EE" fill-rule="nonzero"></path>
+                    <g id="分组-6" transform="translate(19.125000, 71.000000)">
+                        <rect id="path-32" fill-opacity="0.139634284" fill="#58CE85" fill-rule="nonzero" x="-7.03437308e-13" y="0.737313693" width="80.5397289" height="39.6685325"></rect>
+                        <text id="ANT-POOL" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="25.528" y="18.6720581">ANT</tspan>
+                            <tspan x="20.159" y="34.8720582">POOL</tspan>
+                        </text>
+                    </g>
+                    <g id="分组-2" transform="translate(19.125000, 135.000000)">
+                        <g id="分组">
+                            <rect id="path-42" fill-opacity="0.139634284" fill="#58CE85" fill-rule="nonzero" x="0" y="1.13686838e-13" width="80.75" height="37.9003984"></rect>
+                            <text id="F2-POOL" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                                <tspan x="9.61" y="25.6720581">F2 POOL</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="分组-2-copy" transform="translate(19.125000, 214.000000)">
+                        <g id="分组-3">
+                            <rect id="path-42" fill-opacity="0.139634284" fill="#58CE85" fill-rule="nonzero" x="0" y="1.13686838e-13" width="80.75" height="37.9003984"></rect>
+                            <text id="Bitfury" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                                <tspan x="18.213" y="26.6720581">Bitfury</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="分组-2-copy-2" transform="translate(19.125000, 292.000000)">
+                        <g id="分组-4">
+                            <rect id="path-42" fill-opacity="0.139634284" fill="#58CE85" fill-rule="nonzero" x="0" y="1.13686838e-13" width="80.75" height="37.9003984"></rect>
+                            <text id="ACALON" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                                <tspan x="10.856" y="25.6720581">ACALON</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="分组-2-copy-3" transform="translate(19.125000, 371.000000)">
+                        <g id="分组-5">
+                            <rect id="path-42" fill-opacity="0.139634284" fill="#58CE85" fill-rule="nonzero" x="0" y="1.13686838e-13" width="80.75" height="37.9003984"></rect>
+                            <text id="BITM∧IN" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                                <tspan x="10.954" y="26.6720581">BITM∧IN</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="分组-2-copy-4" transform="translate(19.125000, 449.000000)">
+                        <rect id="path-42" fill-opacity="0.139634284" fill="#58CE85" fill-rule="nonzero" x="0" y="1.13686838e-13" width="80.75" height="37.9003984"></rect>
+                        <text id="……" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="14" fill="#070B4A">
+                            <tspan x="25.367" y="22.6720581">……</tspan>
+                        </text>
+                    </g>
+                    <text id="生产方" font-family="PingFang-SC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="1" fill="#070B4A">
+                        <tspan x="31.875" y="38">生产方</tspan>
+                    </text>
+                </g>
+                <g id="分组-copy-5">
+                    <path d="M1.68571429,0 L57.3142857,0 C58.24528,-4.09854206e-16 59,1.80869826 59,4.03984064 L59,502.960159 C59,505.191302 58.24528,507 57.3142857,507 L1.68571429,507 C0.754719993,507 0,505.191302 0,502.960159 L0,4.03984064 C0,1.80869826 0.754719993,4.09854206e-16 1.68571429,0 Z" id="合并形状-copy-2" fill="#E9F1FB" fill-rule="nonzero"></path>
+                    <text id="公-有-链" font-family="PingFang-SC-Regular, PingFang SC" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="1" fill="#070B4A">
+                        <tspan x="19.848" y="231.768066">公</tspan>
+                        <tspan x="19.848" y="249.968066">有</tspan>
+                        <tspan x="19.848" y="268.168067">链</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
